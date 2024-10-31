@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/s2401563/Documents/portfolio/ohjelmointi/html5-ja-css3/02-fontti-muotoilut",
+      "program": "/Users/s2401563/Documents/portfolio/ohjelmointi/html5-ja-css3/02-fontti-muotoilut/build/Debug/outDebug"
+    }
+  ]
+}
