@@ -25,6 +25,7 @@ h1 {
 }
 h2 {
   font-size: 2.8rem;
+  color: #2FF82D; 
 }
 h3 {
   font-size: 2.6rem;
@@ -37,6 +38,38 @@ h5 {
 }
 h6 {
   font-size: 2.1rem;
+}
+.strong {
+  font-weight: 700;
+  color: #01FFFF;
+}
+.italic {
+  font-style: italic;
+}
+element.style {
+  background-color: yellow;
+  color: black;
+  padding: 0.5rem;
+}
+
+element.style {
+  color: red;
+  font-size: 1rem;
+}
+.overlined {
+  text-decoration: line-through;
+}
+.subscript {
+  text-decoration: underline;
+}
+.superscript {
+  font-size: 1rem;
+}
+.subscript {
+  font-size: 1rem;
+}
+.subscript {
+  font-size: 1rem;
 }
 .strong{
 
